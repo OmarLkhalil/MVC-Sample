@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVC-Sample</string>
+    <string name="facebook">facebook</string>
+    <string name="email_or_phone">Email or phone number</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="sign_up_for_facebook">Sign Up For Facebook</string>
+    <string name="helpcenter">Help Center</string>
+    <string name="omar_larry">Omar Larry</string>
+    <string name="_2_hrs">2 hrs·</string>
+    <string name="_1_6k">1.6K</string>
+    <string name="ez_larry_gamed">ez larry gamed</string>
+</resources>
