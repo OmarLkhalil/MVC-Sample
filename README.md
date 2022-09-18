@@ -19,6 +19,5 @@ Used:
  - Email & Password Validation 
 ## Screenshots
 
-    <img src="https://github.com/OmarLkhalil/MVC-DeisgnPatter-Sample/blob/master/screen1.png" width="324" height="500">
-
+<img src="https://github.com/OmarLkhalil/MVC-DeisgnPatter-Sample/blob/master/screen1.png" width="324" height="500">
 .
