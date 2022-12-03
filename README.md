@@ -1,8 +1,6 @@
 
 # KOTLIN MVC- Design Pattern
 
-MVC Android application with MVC pattern which has educational aspect.
-
 
 - **Model** : User that implements IUser interface.
 
